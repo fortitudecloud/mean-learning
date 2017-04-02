@@ -2,9 +2,16 @@ FROM hypriot/rpi-node:latest
  
 ADD ./ /src
 WORKDIR /src
- 
+
+# Install Typescript
+RUN npm install -g typescript
+
+# Install Project
 RUN npm install
  
-EXPOSE 80
+# Build Project
+RUN tsc -p .
+
+EXPOSE 3000
  
-CMD ["node", "basic/bootstrap"]
+CMD ["node", "Basic/bootstrap"]
