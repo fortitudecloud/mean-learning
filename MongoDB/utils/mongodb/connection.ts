@@ -1,6 +1,6 @@
 import { Db, MongoClient } from 'mongodb';
 
-const url: string = 'mongodb://localhost:27017/inversify-express-example';
+const url: string = 'mongodb://192.168.15.145:27017/inversify-express-example';
 
 export class MongoDBConnection {
   private static isConnected: boolean = false;

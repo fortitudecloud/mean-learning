@@ -7,7 +7,7 @@
             "dom"
         ],
         "noImplicitAny": false,
-        "sourceMap": true,
+        "sourceMap": false,
         "emitDecoratorMetadata": true,
         "experimentalDecorators": true,
         "moduleResolution": "node"
