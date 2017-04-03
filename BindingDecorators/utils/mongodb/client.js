@@ -51,4 +51,3 @@ MongoDBClient = __decorate([
     __metadata("design:paramtypes", [])
 ], MongoDBClient);
 exports.MongoDBClient = MongoDBClient;
-//# sourceMappingURL=client.js.map

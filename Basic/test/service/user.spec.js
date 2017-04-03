@@ -48,4 +48,3 @@ describe('UserService', function () {
         chai_1.expect(service.getUsers()).to.have.length(1);
     });
 });
-//# sourceMappingURL=user.spec.js.map

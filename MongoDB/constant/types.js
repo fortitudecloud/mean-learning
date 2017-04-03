@@ -5,4 +5,3 @@ var TYPES = {
     UserService: Symbol('UserService')
 };
 exports.default = TYPES;
-//# sourceMappingURL=types.js.map

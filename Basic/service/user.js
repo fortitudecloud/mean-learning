@@ -58,4 +58,3 @@ UserService = __decorate([
     inversify_1.injectable()
 ], UserService);
 exports.UserService = UserService;
-//# sourceMappingURL=user.js.map

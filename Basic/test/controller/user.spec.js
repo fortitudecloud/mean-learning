@@ -63,4 +63,3 @@ describe('UserController', function () {
         chai_1.expect(controller.getUsers()).to.have.length(1);
     });
 });
-//# sourceMappingURL=user.spec.js.map

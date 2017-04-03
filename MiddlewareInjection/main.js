@@ -18,4 +18,3 @@ var controller = controller_1.controllerFactory(container);
 container.bind(inversify_express_utils_1.TYPE.Controller).to(controller).whenTargetNamed('TestController');
 var server = new inversify_express_utils_1.InversifyExpressServer(container);
 server.build().listen('3000', function () { console.log('Listening on port 3000'); });
-//# sourceMappingURL=main.js.map

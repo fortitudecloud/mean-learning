@@ -34,4 +34,3 @@ function controllerFactory(container) {
     return TestController;
 }
 exports.controllerFactory = controllerFactory;
-//# sourceMappingURL=controller.js.map

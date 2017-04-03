@@ -67,4 +67,3 @@ UserService = __decorate([
     __metadata("design:paramtypes", [client_1.MongoDBClient])
 ], UserService);
 exports.UserService = UserService;
-//# sourceMappingURL=user.js.map

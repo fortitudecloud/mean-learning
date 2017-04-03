@@ -5,4 +5,3 @@ var TAGS = {
     UserController: 'UserController'
 };
 exports.default = TAGS;
-//# sourceMappingURL=tags.js.map

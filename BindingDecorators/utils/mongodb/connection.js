@@ -28,4 +28,3 @@ var MongoDBConnection = (function () {
 }());
 MongoDBConnection.isConnected = false;
 exports.MongoDBConnection = MongoDBConnection;
-//# sourceMappingURL=connection.js.map

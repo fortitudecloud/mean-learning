@@ -9,4 +9,3 @@ describe('HomeController', function () {
         chai_1.expect(service.get()).to.equal('Home sweet home');
     });
 });
-//# sourceMappingURL=home.spec.js.map

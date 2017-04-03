@@ -83,4 +83,3 @@ describe('MongoDBClient', function () {
         });
     });
 });
-//# sourceMappingURL=client.spec.js.map

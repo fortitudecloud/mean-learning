@@ -36,4 +36,4 @@ export class Container implements CoreContainer {
 
         this.container.get<T>(typeOf());
     }
-}*/
+}*/ 

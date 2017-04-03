@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 var mongodb_1 = require("mongodb");
-var url = 'mongodb://localhost:27017/inversify-express-example';
+var url = 'mongodb://192.168.15.145:27017/inversify-express-example';
 var MongoDBConnection = (function () {
     function MongoDBConnection() {
     }
@@ -28,4 +28,3 @@ var MongoDBConnection = (function () {
 }());
 MongoDBConnection.isConnected = false;
 exports.MongoDBConnection = MongoDBConnection;
-//# sourceMappingURL=connection.js.map

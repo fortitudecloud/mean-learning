@@ -21,4 +21,3 @@ var provideNamed = function (identifier, name) {
         .done();
 };
 exports.provideNamed = provideNamed;
-//# sourceMappingURL=ioc.js.map

@@ -30,4 +30,3 @@ HomeController = __decorate([
     inversify_express_utils_1.Controller('/')
 ], HomeController);
 exports.HomeController = HomeController;
-//# sourceMappingURL=home.js.map

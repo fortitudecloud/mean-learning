@@ -5,4 +5,3 @@ require("./controller/home");
 require("./utils/mongodb/client");
 require("./controller/user");
 require("./service/user");
-//# sourceMappingURL=loader.js.map
